@@ -9,8 +9,6 @@ import Contact from './routes/Contact'
 import Projects from './routes/Projects'
 import { Route,Routes } from 'react-router-dom';
 
-
-
 function App() {
   return (
     <>
