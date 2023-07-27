@@ -24,6 +24,7 @@ function Footer() {
          </div>
 
 
+
          <div className='right'>
          <h4> About me</h4>
          <p>This is Vidushi Saxena. Final-year student (Btech CSE). </p>
