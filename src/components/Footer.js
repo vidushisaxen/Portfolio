@@ -5,6 +5,8 @@ import { FaGithub, FaHackerrank, FaHome, FaLinkedin, FaMailBulk, FaPhone } from 
 function Footer() {
   return (
     <>
+
+    
     <div className='footer'>
         <div className='footer-container'>
          <div className='left'>
