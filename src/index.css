@@ -20,11 +20,13 @@ ul{
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248,217,15);
+  background: rgba(248, 221, 15, 0.955);
   color: #222;
-  border: 1px solid #fff;
+  border: 2px solid #fff;
   font-weight: 600;
   cursor: pointer;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 .btn-light{
   background: transparent;
