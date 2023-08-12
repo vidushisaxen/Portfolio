@@ -28,9 +28,9 @@ function Footer() {
          <p>This is Vidushi Saxena. Final-year student (Btech CSE). </p>
          <p>I enjoy playing with code and design new challenges to make them in my own way.</p>
          <div className='social'>
-         <FaLinkedin size={20} style={{color:"white", marginRight:"1rem"}}/>
-         <FaGithub size={20} style={{color:"white", marginRight:"1rem"}}/>
-         <FaHackerrank size={20} style={{color:"white", marginRight:"1rem"}}/>
+         <a href='https://www.linkedin.com/in/vidushi-saxena-071786228/'><FaLinkedin size={20} style={{color:"white", marginRight:"1rem"}}/></a>
+         <a href='https://github.com/vidushisaxen'><FaGithub size={20} style={{color:"white", marginRight:"1rem"}}/></a>
+         <a href='https://www.hackerrank.com/vidushisaxenabd1'><FaHackerrank size={20} style={{color:"white", marginRight:"1rem"}}/></a>
          </div>
          </div>
         </div>

@@ -6,8 +6,6 @@ import TathastuJava from "../assets/TathastuJava.jpeg"
 import UdemyComputerBasics from "../assets/UdemyComputerBasics.jpeg"
 import UdemyWebDevelopment from "../assets/UdemyWebDevelopment.jpeg"
 
-// import React from 'react'
-
 const CerCardData = [
     {
         img:AWSForage,
