@@ -3,7 +3,6 @@ import './ProjectcardStyles.css'
 import CertificationsCardData from '../components/CertificationsCardData'
 import CertificateCard from './CertificateCard'
 
-
 const Cerificate = () => {
   return (
     <>
@@ -16,7 +15,8 @@ const Cerificate = () => {
                     key={ind}
                     img={val.img}
                     name = {val.name}
-                    issue = {val.issued_on}
+                    issue = {val.issue}
+                    link = {val.link}
                     />
                 )
             })}

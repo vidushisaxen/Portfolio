@@ -7,7 +7,7 @@ import Blackjack from '../assets/Blackjack.jpeg'
 const AboutContent = () => {
   return (
     <>
-    <div className="about">
+    <div className="about">   
         <div className="left">
             <h1 className="project-heading"> Who am I ?</h1>
             <p>I am a react front-end developer. I create responsive and secure websites for my clients.</p>
@@ -29,29 +29,42 @@ const AboutContent = () => {
    
     <div className="education skillset">
     <h2 className="sheading">Education</h2><br></br>
-        <div className="eduone"></div>
-        <div className="edutwo"></div>
-        <div className="eduthree"></div>
+        <div className="eduone">
+            <p>Institute of Engineering and Technology, <br></br> Dr. Ram Manohar Lohia Avadh University, Ayodhya. <br></br> Btech. (Computer Science)<br></br>  [August 2020 - August 2024] <br></br> <b>CGPA - </b> 8.5</p>
+        </div>
+        <div className="edutwo">
+           <p>
+            De Paul School, Budaun. <br></br> CISCE Board <br></br>XII (PCM with computers, Physical Education , English) <br></br> <b>Percentage -</b> 84.4
+           </p>
+        </div>
+        <div className="eduthree">
+        <p>
+            De Paul School, Budaun. <br></br> CISCE Board <br></br>X (PCM , English, Computers, Hindi)  <br></br> <b>Percentage -</b> 88
+           </p>
+        </div>
     </div>
     <div className="skillset">
-        <h2 className="sheading">Skills</h2>
+        <h2 className="sheading"> Technical Skills</h2>
         <ul>
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
             <li>React JS</li>
+            <li>Mongo Db</li>
+            <li>Node JS</li>
             <li>Java</li>
             <li>C</li>
             <li>Tailwind CSS</li>
             <li>Bootstrap</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React JS</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>Tailwind CSS</li>
-            <li>Bootstrap</li>
+            <li>Figma</li>
+            <li>Canva</li>
+            <li>UI/UX</li>
+            <li>Data Management </li>
+            <li>Grphic designing</li>
+            <li>MS Word</li>
+            <li>MS Excel</li>
+            <li>MS Powerpoint</li>
+            
         </ul>
     </div>
 
@@ -78,17 +91,11 @@ const AboutContent = () => {
             <li>Passionate</li>
             <li>Quick Learner</li>
             <li>Leader</li>
-            <li>C</li>
-            <li>Tailwind CSS</li>
-            <li>Bootstrap</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React JS</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>Tailwind CSS</li>
-            <li>Bootstrap</li>
+            <li>Punctual</li>
+            <li>Decision making</li>
+            <li>Public speaking</li>
+            <li>Communication</li>
+            
         </ul>
     </div>
     </>

@@ -14,7 +14,7 @@ const Form = () => {
             <input type='text'></input>
             <label>Message</label>
             <textarea rows="6" placeholder='Type your message'/>
-            <button className='btn'>Submit</button>            
+            <button className='btn'><a href="mailto:vidushisaxenabdn786@gmail.com" target="_blank">Send Email</a></button>            
         </form>
     </div>
   )

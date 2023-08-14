@@ -13,7 +13,7 @@ const Projectcard = (props) => {
                     <p>{props.text}</p>
                     <div className='pro-btns'>
                         <NavLink to={props.view} className="btn">Live Link</NavLink>
-                        <NavLink to={props.view} className="btn">Code repo</NavLink>
+                        <NavLink to={props.code} className="btn">Code repo</NavLink>
                     </div>
                 </div>
             </div>

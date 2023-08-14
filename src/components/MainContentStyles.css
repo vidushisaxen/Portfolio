@@ -1,11 +1,12 @@
 .main-content{
     display: flex;
     color: white;
-}
-.main-content .left{
+} 
+.main-content .mleft{
     height: 400px;
     width: 45%;
-    border: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
     padding:2rem;
     margin: 2rem;
 }
@@ -31,4 +32,14 @@
 .main-content .right h3{
     text-align: center;
     margin-top: 10px;
+}
+.main-content img{
+    height: 200px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.main-content h2{
+    font-size: 1.5rem;
+    margin-left: 10px;
 }

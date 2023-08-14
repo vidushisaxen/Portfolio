@@ -76,9 +76,13 @@
 }
 .education {
     display: flex;
+    flex-direction: column;
 }
 .education div{
-    height: 300px;
-    width: 200px;
+    min-height: 100px;
+   max-width: 500px;
     border: 2px solid white;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
 }

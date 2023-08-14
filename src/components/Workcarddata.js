@@ -8,6 +8,7 @@ import Subway from "../assets/Subway.jpeg"
 import ToDo from "../assets/ToDo.jpeg"
 import WrapFrame from "../assets/WrapFrame.jpeg"
 import TabSaver from "../assets/TabSaver.jpeg"
+import React10 from "../assets/React10.jpeg"
 
 const ProjectCardData = [
     {
@@ -53,17 +54,17 @@ const ProjectCardData = [
         code :"https://github.com/vidushisaxen/To-do"
     },
     {
-        imgsrc : ToDo,
+        imgsrc : React10,
         title : "React-10",
-        text : "A React.js app made to plan our day beforehand and to make it more productive and to utilize ach minute in a positive way. It comes with features like Adding a new task, Deleting the task that is completed, Move the tasks upwards with higher priority and also gave us the chance to edit the tasks as per our needs.",
-        view : "https://dayplanners.netlify.app/",
-        code :"https://github.com/vidushisaxen/To-do"
+        text : "A collection of 10 small react projects conatining a MUSIC app , a clock , an app that performs EDITING on pictures, BACKDROPS- an app containing HD background images, FLEX GALLERY- consists of different images which enlarges on mouse hovering, SEARCH BAR and a STICKY NAVBAR- which sticks to top on scrolling of the page.",
+        view : "https://react10.netlify.app/",
+        code :"https://github.com/vidushisaxen/REACT-30"
     },
     {
         imgsrc : TabSaver,
         title : "Tab Saver",
         text : "It is a chrome extension which is made using HTML, CSS and JS and deployed in extensions. It is used to save the links of the tabs so that a number of tabs need not to open in the browser. We can add links by the add bar and also by the SAVE TAB option , it saves the currently opened tab in the list . We can edit the list and also removes tehm by using the DELETE button.",
-        view : "www.youtube.com",
+        view : "https://drive.google.com/file/d/1TiRPDTqy7JvqqJoiIVjfx14NYzylyNMK/view?usp=drive_link",
         code :"https://github.com/vidushisaxen/Chrome_Extension"
     },
     {
