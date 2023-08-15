@@ -1,6 +1,6 @@
 import React from "react";
 import './ProjectcardStyles.css'
-import CertificationsCardData from '../components/CertificationsCardData'
+import CertificationsCardData from './CertificationsCardData'
 import CertificateCard from './CertificateCard'
 
 const Cerificate = () => {

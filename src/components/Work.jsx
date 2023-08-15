@@ -1,6 +1,6 @@
 import React from 'react'
 import './ProjectcardStyles.css'
-import Workcarddata from '../components/Workcarddata'
+import Workcarddata from './Workcarddata'
 import Projectcard from './Projectcard'
 
 
