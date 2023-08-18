@@ -9,7 +9,7 @@ const MainContent = () => {
         <div className='mleft'>
           <h2> Tech-Stack</h2>
           <img src={MERN}></img>
-            <p>Loreehjbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            <p>Frontend developer @React <br></br> UI/UX Designer <br></br>Problem Solver DSA @Java
             </p>
         </div>
         <div className='right'>

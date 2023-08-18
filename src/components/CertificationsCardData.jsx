@@ -6,6 +6,7 @@ import TathastuJava from "../assets/TathastuJava.jpeg"
 import UdemyComputerBasics from "../assets/UdemyComputerBasics.jpeg"
 import UdemyWebDevelopment from "../assets/UdemyWebDevelopment.jpeg"
 import Eduphoenix from "../assets/Eduphoenix.jpeg"
+import MicrosoftAzureAI from '../assets/MicrosoftAzureAI.jpeg'
 
 const CerCardData = [
     {
@@ -20,6 +21,12 @@ const CerCardData = [
         name: "Solutions Architect Virtual Experience program",
         issue: "January 3,2022",
         link: "https://drive.google.com/file/d/1nVpOytjEVZQ5jheZ_tANt2GS47EQwevC/view?usp=drive_link"
+    },
+    {
+        img:MicrosoftAzureAI,
+        name: "Microsoft Azure AI Fundamentals",
+        issue: "February 5,2022",
+        link: "https://drive.google.com/file/d/1mw0G8FMxO2_pIgDWaMz3dGyrw2q-eGx6/view?usp=drive_link"
     },
     {
         img: GUVIPython,
