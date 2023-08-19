@@ -1,6 +1,6 @@
 import React from 'react'
 import './FooterStyles.css'
-import { FaGithub, FaHackerrank, FaHome, FaLinkedin, FaMailBulk, FaPhone } from 'react-icons/fa'
+import { FaCopyright, FaGithub, FaHackerrank, FaHome, FaLinkedin, FaMailBulk, FaPhone } from 'react-icons/fa'
 
 function Footer() {
   return (
@@ -15,9 +15,9 @@ function Footer() {
             <p>Ayodhya, India.</p>
             </div>
          </div>
-         <div className='phone'>
+         {/* <div className='phone'>
          <h4><FaPhone size={20} style={{color:"white", marginRight:"1rem"}}/>+91 8433180613</h4>
-         </div>
+         </div> */}
          <div className='email'>
          <h4><FaMailBulk size={20} style={{color:"white", marginRight:"1rem"}}/>vidushisaxenabdn786@gmail.com</h4>
          </div>
@@ -33,6 +33,11 @@ function Footer() {
          <a href='https://www.hackerrank.com/vidushisaxenabd1'><FaHackerrank size={20} style={{color:"white", marginRight:"1rem"}}/></a>
          </div>
          </div>
+         {/* <div className='footerbottom'>
+         <FaCopyright size={20} style={{color:"white", marginRight:"1rem"}}/>
+         <p>2023</p>
+         <p>Vidushi Saxena</p>
+         </div> */}
         </div>
     </div>
     </>

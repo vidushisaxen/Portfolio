@@ -24,7 +24,7 @@ const Achieve = () => {
     <div className='picbox'>
         <div className='left'>
             <h2>Deepotsav App </h2>
-            <h3>Launched by Hon'ble Governor (Smt. Anandiben Patel)</h3>
+            <h3>Launched by Hon'ble Governor (Smt. Anandiben Patel)</h3><br></br>
             <p> -- A team of 6 people created  an android application "DEEPOTSAV" for Deepotsav event of Ayodhya.<br></br>
 • Created a chat section for this application to send and receive chat (only for authorized users).<br></br>
 • Using mongo DB for storing the indexes , post-comments and image url.<br></br>
@@ -41,7 +41,6 @@ const Achieve = () => {
             </div>
         </div>
     </div>
-
     <h2 className='aheading'>Badges</h2>
     <div className='badgebox'>
         <div className='badge'>

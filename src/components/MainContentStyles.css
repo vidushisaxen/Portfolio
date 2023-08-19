@@ -49,3 +49,23 @@
     margin-left: 10px;
 }
 
+@media screen and (max-width:1040px){
+    .main-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-content .mleft img{
+    width: 300px;
+    }
+    .main-content .mleft {
+        width: 90%;
+    }
+    .main-content .right{
+        width: 100%;
+        margin: 0;
+    }
+    .main-content .right img{
+        margin-left: 15%;
+    }
+}
+

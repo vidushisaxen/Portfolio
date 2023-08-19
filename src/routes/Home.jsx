@@ -4,6 +4,7 @@ import Heroimg from '../components/Heroimg'
 import Footer from '../components/Footer'
 import MainContent from '../components/MainContent'
 import Achieve from '../components/Achieve'
+import Streaks from '../components/Streaks'
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
       <Heroimg/>
       <MainContent/>
       <Achieve/>
+      <Streaks/>
       <Footer/>
     </div>
   )

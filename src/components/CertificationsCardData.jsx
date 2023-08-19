@@ -11,7 +11,7 @@ import MicrosoftAzureAI from '../assets/MicrosoftAzureAI.jpeg'
 const CerCardData = [
     {
         img:Eduphoenix,
-        name: "Web Development Intern",
+        name: "Web Development Intern, Eduphoenix Solutions",
         issue: "July 05,2023", 
         link: "https://drive.google.com/file/d/1vkif1eijqXXX8ueYY9zJG04y0phmJphM/view?usp=drive_link"
         
@@ -30,7 +30,7 @@ const CerCardData = [
     },
     {
         img: GUVIPython,
-        name: "GUVI Python MPC",
+        name: "GUVI Python MPC Certification",
         issue: "January 21,2022",
         link: "https://drive.google.com/file/d/13dui88SxKq5nq1iGS3kzfAZuJQmJoumi/view?usp=drive_link"
     },
@@ -48,7 +48,7 @@ const CerCardData = [
     },
     {
         img: TathastuJava,
-        name: "JAVA Scholar Intern",
+        name: "JAVA Scholar Intern, Twowaits Technologies",
         issue: "June 30,2022",
         link: "https://drive.google.com/file/d/1bbz463THJ9wvI2ZTFigM1N1knUWiBpWG/view?usp=drive_link"
     },

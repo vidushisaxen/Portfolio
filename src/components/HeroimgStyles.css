@@ -54,5 +54,10 @@
         font-size: 1.5rem;
     
     }
+    .main-btns{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 40px;
+    }
     
 }
