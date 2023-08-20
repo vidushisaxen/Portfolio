@@ -7,8 +7,16 @@ import UdemyComputerBasics from "../assets/UdemyComputerBasics.jpeg"
 import UdemyWebDevelopment from "../assets/UdemyWebDevelopment.jpeg"
 import Eduphoenix from "../assets/Eduphoenix.jpeg"
 import MicrosoftAzureAI from '../assets/MicrosoftAzureAI.jpeg'
+import Scaler_java from '../assets/Scaler_java.jpeg'
 
 const CerCardData = [
+    {
+        img:Scaler_java,
+        name: "Java Course- Mastering the fundamentala",
+        issue: "August 19,2023", 
+        link: "https://drive.google.com/file/d/1VAMn7mwJbQcBdsfJYer5p-GyQ1wgXr8m/view?usp=drive_link"
+        
+    },
     {
         img:Eduphoenix,
         name: "Web Development Intern, Eduphoenix Solutions",
@@ -65,5 +73,6 @@ const CerCardData = [
         link: "https://drive.google.com/file/d/1ISlJGRv5pdnWC78DEDsR2P7AlK1_rzuv/view?usp=drive_link"
     }
 ]
+
 
 export default CerCardData;

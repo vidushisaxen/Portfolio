@@ -12,8 +12,6 @@ function About() {
       <Navbar/>
       <Hero heading="It's me" text="Wanna know some facts about me."/>
       <AboutContent/>
-      <Achieve/>
-      <Streaks/>
     <Footer/>
     </div>
   )
