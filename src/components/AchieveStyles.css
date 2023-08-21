@@ -64,10 +64,21 @@
         flex-direction: column;
     }
     .badge img{
-        margin-left: 40%;
+        margin: 20px;
+        margin-left: 20%;
+        height: 100px;
+        width: 100px;
+        
     }
     .aheading{
         margin-top: 15%;
     }
+    .badgebox{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        
+      }
       
 }
