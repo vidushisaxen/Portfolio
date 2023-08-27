@@ -4,6 +4,7 @@ import { Link } from "react-router-dom"
 import WrapFrame from '../assets/WrapFrame.jpeg'
 import Blackjack from '../assets/Blackjack.jpeg'
 
+
 const AboutContent = () => {
   return (
     <>
