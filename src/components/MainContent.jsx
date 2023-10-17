@@ -15,7 +15,7 @@ const MainContent = () => {
         <div className='right'>
          <img src= {resume}></img>
          <h3>VIDUSHI SAXENA RESUME</h3>
-         <button className='btn'><a href="https://drive.google.com/file/d/1ZL25dRTJhbLI9jd28lHSjurkj2fNt8Iz/view?usp=drive_link">Open</a></button>
+         <button className='btn'><a href="https://drive.google.com/file/d/1ys-7_3kYr_DhgotRi32dPTrRn8Ebt5VR/view?usp=drive_link">Open</a></button>
         </div>
     </div>
     </>
