@@ -14,9 +14,6 @@ function Footer() {
             <p>Ayodhya, India.</p>
             </div>
          </div>
-         {/* <div className='phone'>
-         <h4><FaPhone size={20} style={{color:"white", marginRight:"1rem"}}/>+91 8433180613</h4>
-         </div> */}
          <div className='email'>
          <h4><FaMailBulk size={20} style={{color:"white", marginRight:"1rem"}}/>vidushisaxenabdn786@gmail.com</h4>
          </div>
