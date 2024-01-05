@@ -11,7 +11,6 @@ function Footer() {
             <div className='location'>
                 <FaHome size={20} style={{color:"white", marginRight:"1rem"}}/>
            <div>
-            <p>Faizabad bypass</p>
             <p>Ayodhya, India.</p>
             </div>
          </div>
