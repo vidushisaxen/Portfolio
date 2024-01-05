@@ -1,6 +1,6 @@
 import React from 'react'
 import './MainContentStyles.css'
-import resume from "../assets/resume.jpeg"
+import resume from "../assets/resume.jpg"
 import MERN from "../assets/MERN.png"
 const MainContent = () => {
   return (

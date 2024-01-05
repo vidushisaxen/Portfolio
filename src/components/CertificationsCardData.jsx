@@ -11,6 +11,13 @@ import Scaler_java from '../assets/Scaler_java.jpeg'
 
 const CerCardData = [
     {
+        img:BasketHunt,
+        name: "Internship in frontend web development at Basket Hunt Pvt. Ltd.",
+        issue: "November 27,2023", 
+        link: "https://drive.google.com/file/d/1Wt8xYlU1m851MhQiUyu6b50VWPkulqkA/view?usp=drive_link"
+        
+    },
+    {
         img:Scaler_java,
         name: "Java Course- Mastering the fundamentala",
         issue: "August 19,2023", 
