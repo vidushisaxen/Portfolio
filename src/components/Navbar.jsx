@@ -4,7 +4,6 @@ import { Link } from "react-router-dom"
 import {FaBars, FaTimes} from "react-icons/fa"
 import { useState } from "react"
 
-
 function Navbar() {
   
     const[click,setClick] = useState(false);
