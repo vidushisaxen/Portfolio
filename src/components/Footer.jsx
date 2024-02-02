@@ -29,6 +29,7 @@ function Footer() {
          <a href='https://www.hackerrank.com/vidushisaxenabd1'><FaHackerrank size={20} style={{color:"white", marginRight:"1rem"}}/></a>
          </div>
          </div>
+         
          {/* <div className='footerbottom'>
          <FaCopyright size={20} style={{color:"white", marginRight:"1rem"}}/>
          <p>2023</p>
