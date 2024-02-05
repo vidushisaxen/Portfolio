@@ -103,7 +103,6 @@ const AboutContent = () => {
             <li>Decision making</li>
             <li>Public speaking</li>
             <li>Communication</li>
-        
         </ul>
     </div>
     </>
