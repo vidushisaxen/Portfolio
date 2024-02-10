@@ -17,6 +17,7 @@ import badge10 from '../assets/badge10.jpeg'
 import badge11 from '../assets/badge11.jpeg'
 import badge12 from '../assets/badge12.jpeg'
 
+
 const Achieve = () => {
   return (
     <>
