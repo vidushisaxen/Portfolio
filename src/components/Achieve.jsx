@@ -1,21 +1,21 @@
-import React from 'react'
-import './AchieveStyles.css'
-import deep1 from '../assets/deep1.jpeg'
-import deep2 from '../assets/deep2.jpeg'
-import deep3 from '../assets/deep3.jpeg'
-import deep4 from '../assets/deep4.jpeg'
-import badge1 from '../assets/badge1.jpeg'
-import badge2 from '../assets/badge2.jpeg'
-import badge3 from '../assets/badge3.jpeg'
-import badge4 from '../assets/badge4.jpeg'
-import badge5 from '../assets/badge5.jpeg'
-import badge6 from '../assets/badge6.jpeg'
-import badge7 from '../assets/badge7.jpeg'
-import badge8 from '../assets/badge8.jpeg'
-import badge9 from '../assets/badge9.jpeg'
-import badge10 from '../assets/badge10.jpeg'
-import badge11 from '../assets/badge11.jpeg'
-import badge12 from '../assets/badge12.jpeg'
+import React from 'react';
+import './AchieveStyles.css';
+import deep1 from '../assets/deep1.jpeg';
+import deep2 from '../assets/deep2.jpeg';
+import deep3 from '../assets/deep3.jpeg';
+import deep4 from '../assets/deep4.jpeg';
+import badge1 from '../assets/badge1.jpeg';
+import badge2 from '../assets/badge2.jpeg';
+import badge3 from '../assets/badge3.jpeg';
+import badge4 from '../assets/badge4.jpeg';
+import badge5 from '../assets/badge5.jpeg';
+import badge6 from '../assets/badge6.jpeg';
+import badge7 from '../assets/badge7.jpeg';
+import badge8 from '../assets/badge8.jpeg';
+import badge9 from '../assets/badge9.jpeg';
+import badge10 from '../assets/badge10.jpeg';
+import badge11 from '../assets/badge11.jpeg';
+import badge12 from '../assets/badge12.jpeg';
 
 
 const Achieve = () => {
