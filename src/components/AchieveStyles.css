@@ -47,6 +47,8 @@
     opacity: 1;
 }
 
+
+
 @media screen and (max-width:1040px) {
     .picbox{
         display: flex;
