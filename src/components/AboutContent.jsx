@@ -70,6 +70,9 @@ const AboutContent = () => {
             <li>MS Word</li>
             <li>MS Excel</li>
             <li>MS Powerpoint</li>
+
+
+            
             
         </ul>
     </div>
