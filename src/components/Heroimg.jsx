@@ -18,7 +18,6 @@ function Heroimg() {
             <Link to="/contact" className=' btn btn-light'> Contact</Link>
           </div>
         </div>
-
     </div>
     </>
   )
