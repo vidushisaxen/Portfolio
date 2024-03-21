@@ -30,6 +30,8 @@ const Achieve = () => {
 • Created a chat section for this application to send and receive chat (only for authorized users).<br></br>
 • Using mongo DB for storing the indexes , post-comments and image url.<br></br>
 • Using cloudinary for storing images and heroku for processing request and give data to front end using rest api.</p>
+
+
         </div>
         <div className='right'>
             <div className='up'>
