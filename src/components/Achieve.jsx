@@ -38,6 +38,8 @@ const Achieve = () => {
             <img src={deep1}></img>
             <img src={deep2}></img>
             </div>
+
+            
             <div className='down'>
             <img src={deep3}></img>
             <img src={deep4}></img>
