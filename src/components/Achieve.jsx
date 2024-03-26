@@ -24,7 +24,7 @@ const Achieve = () => {
     <h2 className='aheading'>Achievements</h2>
     <div className='picbox'>
         <div className='left'>
-            
+
             <h2>Deepotsav App </h2>
             <h3>Launched by Hon'ble Governor (Smt. Anandiben Patel)</h3><br></br>
             <p> -- A team of 6 people created  an android application "DEEPOTSAV" for Deepotsav event of Ayodhya.<br></br>
@@ -46,7 +46,10 @@ const Achieve = () => {
             <img src={deep4}></img>
             </div>
         </div>
+
     </div>
+
+    
     <h2 className='aheading'>Badges</h2>
     <div className='badgebox'>
         <div className='badge'>
