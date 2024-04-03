@@ -49,7 +49,7 @@ const Achieve = () => {
 
     </div>
 
-    
+
     <h2 className='aheading'>Badges</h2>
     <div className='badgebox'>
         <div className='badge'>
@@ -92,6 +92,4 @@ const Achieve = () => {
     </>
   )
 }
-
-
 export default Achieve
